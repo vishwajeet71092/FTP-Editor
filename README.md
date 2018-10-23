@@ -27,3 +27,7 @@ This is a small project written in php to get a code editor and a file manager o
 8. Create File
 9. Upload File
 10. Code Editor
+
+## screenshot
+
+![alt text](https://raw.githubusercontent.com/vishwajeet71092/FTP-Editor/master/screenshot/screenshot.png)
